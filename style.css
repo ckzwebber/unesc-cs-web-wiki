@@ -44,7 +44,7 @@ body {
 
 #main-content {
   padding: 20px;
-  max-width: 100dvh;
+  max-width: 100vh;
   margin: auto;
   flex: 1;
 }
